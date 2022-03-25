@@ -1,0 +1,44 @@
+#BiographyItemImg_2{
+    width: 600px;
+    float: right;
+    display: block;
+    margin:10px;
+}
+
+
+#BiographyItemButton{
+    color:black;
+}
+
+#BiographyItemDiv{
+    
+    padding: 5px;
+    margin: 5px;
+    
+}
+
+#BiographyItemHeader{
+    text-align: center;
+    font-size: 60px;
+    padding: 10px;
+    text-shadow: 2px 5px 5px black;
+}
+
+#BiographyItemHeader_2{
+    font-weight: bold;
+    color:black;
+    display: contents;
+}
+
+span{
+    color:red;
+}
+
+#BiographyItemImg{
+    width:200px;
+    box-shadow: 10px 20px 20px black;
+}
+
+#paragraph{
+    text-align: justify;
+}

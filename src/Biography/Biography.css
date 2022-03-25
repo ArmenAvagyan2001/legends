@@ -1,0 +1,39 @@
+#Biography{
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+}
+
+#Link{
+    border-top: 1px solid black;
+}
+
+#inputSearch{
+    text-align: center;
+    width: 50%;
+    height: 50px;
+}
+
+#inputSearch::placeholder {
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 15px;
+}
+
+#divSearch2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+#divSearch{
+    display: flex;
+    justify-content: center;
+}
+
+#headerSearch{
+    margin-top: 20px;
+    text-shadow: 10px 10px 10px black;
+    font-weight: 800;
+    letter-spacing: 10px;
+}
